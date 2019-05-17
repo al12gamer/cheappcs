@@ -6,12 +6,13 @@
 * [Berkeley Al Lasher's Electronics](http://allashers.com/)
 * [San Fernando Apex Surplus Corp](https://www.apexsurplus.com/Home.html)
 * [Oakland East Bay Computer Center](http://eastbaycomputer.com/default.htm)
-* 
+* [Berkeley The Used Computer Store](https://usedcomputerstoreberkeley.wordpress.com/)
 ## Washington (state) - USA
 * [Seattle RE:PC](http://www.repc.com/) <--this place has everything
 ## Ohio - USA
 * [Columbus Computer Surplus Outlet](http://www.computersurplusohio.com/)
 * [Cincinnati Computer Cooperative](http://www.cincinnaticomputercooperative.org/)
+* [Central Ohio Krazy Kenny's](https://www.krazy-kenny.com/)
 ## Michigan - USA
 * [MSU Surplus Store](https://msusurplusstore.com/)
 
