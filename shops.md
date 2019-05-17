@@ -17,6 +17,8 @@
 * [Central Ohio Krazy Kenny's](https://www.krazy-kenny.com/)
 ## Michigan - USA
 * [MSU Surplus Store](https://msusurplusstore.com/)
+* [Ypsilanti Jafferson Computers](http://jafferson.com/)
+* [Adrian Stratos Microsystems](https://www.stratosmicro.com/)
 ## Virginia - USA
 * [Alexandria Friends of PC Retro](https://pcretro.com/pages/pcretro-alexandria)
 
