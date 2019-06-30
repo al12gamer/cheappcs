@@ -7,6 +7,7 @@
 * [San Fernando Apex Surplus Corp](https://www.apexsurplus.com/Home.html)
 * [Oakland East Bay Computer Center](http://eastbaycomputer.com/default.htm)
 * [Berkeley The Used Computer Store](https://usedcomputerstoreberkeley.wordpress.com/)
+* [Bay Area Central Computer](https://www.centralcomputer.com/storelocation)
 ## Washington (state) - USA
 * [Seattle RE:PC](http://www.repc.com/)
 * [Seattle InterConnection](https://interconnection.org/retail.php)
